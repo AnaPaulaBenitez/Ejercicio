@@ -1,0 +1,2 @@
+error 1. el primer error que pude identificar en el diagrama es que la flechita de la clase ListaProyectiles apunta hacia abajo cuando sería al reves
+error 2. la clase Proyectil a igual que las demás clases deberían tener sobreescrita la operación de dibujar() 
